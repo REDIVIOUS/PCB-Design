@@ -1,0 +1,16 @@
+Added Component: Designator=ISD1820(HDR2X7_CEN)
+Added Pin To Net: NetName=NetC1_1 Pin=ISD1820-1
+Added Pin To Net: NetName=NetISD1820_2 Pin=ISD1820-2
+Added Pin To Net: NetName=NetISD1820_3 Pin=ISD1820-3
+Added Pin To Net: NetName=NetC3_1 Pin=ISD1820-4
+Added Pin To Net: NetName=NetC4_2 Pin=ISD1820-5
+Added Pin To Net: NetName=NetC5_1 Pin=ISD1820-6
+Added Pin To Net: NetName=NetISD1820_7 Pin=ISD1820-7
+Added Pin To Net: NetName=NetISD1820_8 Pin=ISD1820-8
+Added Pin To Net: NetName=NetISD1820_9 Pin=ISD1820-9
+Added Pin To Net: NetName=NetISD1820_10 Pin=ISD1820-10
+Added Pin To Net: NetName=Net3V-5V_1 Pin=ISD1820-11
+Added Pin To Net: NetName=NetISD1820_12 Pin=ISD1820-12
+Added Pin To Net: NetName=NetISD1820_13 Pin=ISD1820-13
+Added Pin To Net: NetName=Net3V-5V_2 Pin=ISD1820-14
+Added Member To Class: ClassName=Sheet1 Member=Component ISD1820 

@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_2
+Added Member To Class: ClassName=Sheet1 Member=Component 3V-5V Battery
+Added Member To Class: ClassName=Sheet1 Member=Component C1 0.001uf
+Added Member To Class: ClassName=Sheet1 Member=Component C2 0.1uf
+Added Member To Class: ClassName=Sheet1 Member=Component C3 0.1uf
+Added Member To Class: ClassName=Sheet1 Member=Component C4 0.1uf
+Added Member To Class: ClassName=Sheet1 Member=Component C5 4.7uf
+Added Member To Class: ClassName=Sheet1 Member=Component C6 220uf
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component ISD1820 
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 4.7k
+Added Member To Class: ClassName=Sheet1 Member=Component R3 4.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R5 10K
+Added Member To Class: ClassName=Sheet1 Member=Component S1 REC
+Added Member To Class: ClassName=Sheet1 Member=Component S2 PLAYE
+Added Member To Class: ClassName=Sheet1 Member=Component S3 PLAYL
+Added Member To Class: ClassName=Sheet1 Member=Component S4 循环放音
+Added Member To Class: ClassName=Sheet1 Member=Component S5 直通
+Added Member To Class: ClassName=Sheet1 Member=Component Speaker 8欧0.5W
+Added Member To Class: ClassName=Sheet1 Member=Component  MIC
