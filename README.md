@@ -1,2 +1,2 @@
-# PCB-design
-HUST工程实训,多功能录放音设备的设计与实现（AutoDesigner+PCB板）
+# UGP-HustLab-PcbDesign
+[undergraduate project in hust] The project of engineering training course. Design and achieve a multifunctional recording and playback equipment. (AltiumDesigner+PCB board)
